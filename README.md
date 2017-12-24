@@ -1,5 +1,5 @@
 # Analisi Chat Whastapp
-Un notebook jupyter per analizzare i dati relativi alle tue conversazioni su Whatsapp.
+Un **notebook Jupyter** per analizzare i dati relativi alle tue **conversazioni su Whatsapp**.
 
 Puntare la variabile alla prima riga al file di testo esportato dalla chat Whatsapp ed eseguite tutte le celle.  
 I risultati saranno salvati nella cartella **risultati**
